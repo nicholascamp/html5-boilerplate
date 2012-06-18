@@ -106,7 +106,7 @@ request is shorter.
 
 
 #### INDEX.HTML
-* Use minified jQuery by default. / jQuery updated to 1.6.2
+* Use minified jQuery by default. / jQuery updated to 1.7.2
 * Add respond.js as part of shift to 'mobile first' approach.
 * Updated to Modernizr 2.0 Complete, Production minified.
 * Prompt IE 6 users to install Chrome Frame, update chromeframe install to 1.0.3.  Move chromeframe to bottom of page after the other scripts. also reference exact version for higher expires headers. Use protocol-relative url for chrome frame URL Fixes #495
